@@ -1,1 +1,3 @@
 # ASPCoreWebApiCURD
+
+Stack strace used : C3.NET, ASP.NET CORE,WEB API,SQL SERVER
